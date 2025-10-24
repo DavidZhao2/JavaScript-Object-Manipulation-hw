@@ -4,7 +4,6 @@
 ```bash
 node sculptureScript.js
 
-## Output
 [
   {
     "name": 26,
@@ -14,3 +13,4 @@ node sculptureScript.js
     "alt": 90
   }
 ]
+
