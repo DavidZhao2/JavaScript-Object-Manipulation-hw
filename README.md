@@ -14,3 +14,4 @@ node sculptureScript.js
   }
 ]
 
+![Screenshot_23](https://github.com/user-attachments/assets/c30bdea2-f09d-4e4f-b515-9dc562930450)
